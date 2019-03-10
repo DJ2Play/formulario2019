@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE questions>
+
+<questions>
+    <question>
+		<type>text</type>
+		<title>What's the Tiger I's real name?:</title>
+		<answer>Panzerkampfwagen VI Tiger Ausführung E</answer>
+    </question>
+    <question>
+    	<type>text</type>
+    	<title>What caliber gun has the Pz.IV F2?:</title>
+    	<answer>75mm</answer>
+    </question>
+    <question>
+		<type>select</type>
+		<title>What gamemode enables the enemy team's player tags?:</title>
+		<option>None</option>
+		<option>Arcade Mode</option>
+		<option>Realistic Mode</option>
+		<option>Simulation Mode</option>
+        <answer>1</answer>
+    </question>
+     <question>
+    	<type>select</type>
+    	<title>What are the names of the Spitfires on the 2nd Rank?:</title>
+    	<option>Gladiator Mk II and Spitfire Mk IA,IIA</option>
+        <option>Spitfire F Mk IX,VB,VC</option>
+        <option>Spitfire Mk IA,IIA,IIB</option>
+        <option>Spitfire F Mk IX,XIVE,XVIIIE</option>
+        <answer>2</answer>
+    </question>
+    <question>
+        <type>multiple</type>
+        <title>What nations are normally in the Axis Team?:</title>
+        <option>Great Britain</option>
+        <option>Soviet Union</option>
+        <option>France</option>
+        <option>Italy</option>
+        <option>USA</option>
+        <option>Germany</option>
+        <answer>1</answer>
+        <answer>3</answer>
+        <answer>5</answer>
+    </question>
+    <question>
+        <type>multiple</type>
+        <title>What nations are normally in the Allied Team?:</title>
+        <option>Great Britain</option>
+        <option>Soviet Union</option>
+        <option>France</option>
+        <option>Italy</option>
+        <option>USA</option>
+        <option>Germany</option>
+        <answer>0</answer>
+        <answer>2</answer>
+        <answer>4</answer>
+    </question>
+    <question>
+    	<type>checkbox</type>
+    	<title>Where are located the turrets in the soviet medium tank T-28 (1941)?:</title>
+    	<option>On the back-side of the hull</option>
+    	<option>On the center of the front of the hull</option>
+    	<option>On the center of the left side of the hull</option>
+    	<option>On the right-side of the front of the hull</option>
+    	<option>On the center of the right side of the hull</option>
+    	<option>On the left-side of the front of the hull</option>
+        <answer>1</answer>
+        <answer>3</answer>
+        <answer>5</answer>
+    </question>
+    <question>
+    	<type>checkbox</type>
+    	<title>Which of these are the most common types of planes present in the lower ranks/tiers?:</title>
+    	<option>Light Fighters</option>
+    	<option>Twin-engine Fighters</option>
+    	<option>Naval Fighters</option>
+    	<option>Jet Fighters</option>
+    	<option>Naval Bombers</option>
+    	<option>Heavy Bombers</option>
+    	<option>Biplanes</option>
+        <answer>0</answer>
+        <answer>2</answer>
+        <answer>4</answer>
+    </question>
+     <question>
+		<type>radio</type>
+		<title>How many vehicle ranks or tiers ar there in War Thunder?</title>
+		<option>5 ranks / tiers</option>
+		<option>7 ranks / tiers</option>
+		<option>8 ranks / tiers</option>
+		<option>10 ranks / tiers</option>
+        <answer>0</answer>
+    </question>
+    <question>
+        <type>radio</type>
+        <title>How many engines has the Breda Ba.88 (P.XI)?:</title>
+        <option>1</option>
+        <option>2</option>
+        <option>3</option>
+        <option>4</option>
+        <answer>1</answer>
+    </question>
+</questions>
