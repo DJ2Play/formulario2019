@@ -347,10 +347,10 @@ function mostrarNota(){
 }
 
 function darExplicacion(e) {
-    var p = document.createElement("h4");
+    var p = document.createElement("h3");
     var node = document.createTextNode(" - " + e);
     p.appendChild(node);
-    document.getElementById("Resultado").appendChild(p);
+    document.getElementById("resultado").appendChild(p);
 }
 //Inicializar
 function inicializar(){
