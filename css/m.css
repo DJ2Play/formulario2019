@@ -53,7 +53,8 @@ h2 {
 	width:70%;
 	}
 	.forma {
-	  text-align: center;
+		text-align: center;
+		margin: auto;
   }
   #b3 {
 	  margin:auto;
