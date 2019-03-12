@@ -149,19 +149,17 @@ input,.s1{
 #contenedor {
 	display:none;
 	border-width:7.5px;
-	position: absolute;
+	position:relative;
 	border-style:groove;
 	border-color:white;
 	background-color:#1a1e23;
-	border-radius: 32px 32px 32px 32px;
-	-moz-border-radius: 32px 32px 32px 32px;
-	-webkit-border-radius: 32px 32px 32px 32px;
+	border-radius: 32px;
 	color:white;
 	margin-left:20%;
 	margin-right:20%;
 	margin-top:5%;
-	font-size:2vw;
-	width:55%;
+	font-size:2em;
+	width:70%;
 }
 #pie3 {
 	background-color:black;
