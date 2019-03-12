@@ -17,7 +17,12 @@ header {
 }
 h1,h2{
   text-align:center;
-	margin-top: 4%;
+}
+h1 {
+	font-size: 3em;
+}
+h2 {
+	font-size: 1.25em;
 }
 /* INDEX_EXAMEN.HTML */
 #logo3_1 {
@@ -42,7 +47,6 @@ h1,h2{
 	  color:white;
 	  margin:auto;
 	  margin-top:10%;
-	  font-size:1.5em;
 	  width:70%;
   }
   .forma {
@@ -65,7 +69,6 @@ h1,h2{
 	  margin-left:20%;
 	  margin-right:20%;
 	  margin-top:5%;
-	  font-size:1.5em;
 	  width:70%;
   }
   #submit {

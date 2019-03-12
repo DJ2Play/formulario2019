@@ -17,7 +17,12 @@ header {
 }
 h1,h2{
   text-align:center;
-	margin-top: 4%;
+}
+h1 {
+	font-size: 2.5em;
+}
+h2 {
+	font-size: 1em;
 }
 /* INDEX_EXAMEN.HTML */
 #logo3_1 {
