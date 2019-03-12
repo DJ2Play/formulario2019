@@ -124,7 +124,7 @@ input,.s1{
 	margin-right: 2%;
 	width: 15%;
 }
-#form {
+#form1 {
 	border-width:7.5px;
 	position:relative;
 	border-style:groove;
@@ -138,7 +138,7 @@ input,.s1{
 	font-size:2em;
 	width:70%;
 }
-#form section {
+#form1 section {
 	border: 3px solid black;
 	border-radius: 10%;
 	padding: 6%;
