@@ -38,7 +38,6 @@ h2 {
 	width: 15%;
   }
   #form1 {
-    display:block;
 	  border-width:7.5px;
 	  position:relative;
 	  border-style:groove;
@@ -60,7 +59,7 @@ h2 {
 	  padding: 1%;
   }
   #contenedor {
-	  display:block;
+	  display:none;
 	  border-width:7.5px;
 	  position:relative;
 	  border-style:groove;
