@@ -46,6 +46,9 @@ h1,h2{
 	margin-top:10%;
 	font-size:1em;
 	width:70%;
+	}
+	.forma {
+	  text-align: center;
   }
   #b3 {
 	  margin:auto;
@@ -66,6 +69,10 @@ h1,h2{
 	  margin-top:5%;
 	  font-size:1em;
 	  width:70%;
+	}
+	#submit {
+	  margin:auto;
+	  margin-bottom: 2%;
   }
   #pie3 {
 	  background-color:black;
